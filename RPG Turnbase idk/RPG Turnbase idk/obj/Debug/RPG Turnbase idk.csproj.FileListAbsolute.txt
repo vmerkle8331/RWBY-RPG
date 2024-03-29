@@ -1,0 +1,12 @@
+C:\Users\vickm\source\repos\RPG Turnbase idk\RPG Turnbase idk\obj\Debug\RPG_Turnbase_idk.Properties.Resources.resources
+C:\Users\vickm\source\repos\RPG Turnbase idk\RPG Turnbase idk\obj\Debug\RPG Turnbase idk.csproj.GenerateResource.cache
+C:\Users\vickm\source\repos\RPG Turnbase idk\RPG Turnbase idk\obj\Debug\RPG Turnbase idk.csproj.CoreCompileInputs.cache
+C:\Users\vickm\source\repos\RPG Turnbase idk\RPG Turnbase idk\obj\Debug\RPG_Turnbase_idk.GameWindow.resources
+C:\Users\vickm\source\repos\RPG Turnbase idk\RPG Turnbase idk\obj\Debug\RPG_Turnbase_idk.MenuWindow.resources
+C:\Users\vickm\source\repos\RPG Turnbase idk\RPG Turnbase idk\obj\Debug\RPG_Turnbase_idk._2PlayerGameWindow.resources
+C:\Users\vickm\source\repos\RPG Turnbase idk\RPG Turnbase idk\bin\Debug\RPG Turnbase idk.exe.config
+C:\Users\vickm\source\repos\RPG Turnbase idk\RPG Turnbase idk\bin\Debug\RPG Turnbase idk.exe
+C:\Users\vickm\source\repos\RPG Turnbase idk\RPG Turnbase idk\bin\Debug\RPG Turnbase idk.pdb
+C:\Users\vickm\source\repos\RPG Turnbase idk\RPG Turnbase idk\obj\Debug\RPG Turnbase idk.exe
+C:\Users\vickm\source\repos\RPG Turnbase idk\RPG Turnbase idk\obj\Debug\RPG Turnbase idk.pdb
+C:\Users\vickm\source\repos\RPG Turnbase idk\RPG Turnbase idk\obj\Debug\RPG Turnbase idk.csproj.AssemblyReference.cache
